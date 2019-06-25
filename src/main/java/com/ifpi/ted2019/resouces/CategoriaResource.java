@@ -22,7 +22,6 @@ public class CategoriaResource {
 		
 	}
 	
-
 		public String Listar() {
 			return "Rest funcionando";
 			
